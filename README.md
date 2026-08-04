@@ -75,7 +75,7 @@ DenseNet-121 achieved substantially higher QWK and better recall on referable DR
 ```
 ├── README.md
 ├── requirements.txt
-├── RetinAI_ALTH-2.ipynb              # ResNet-50 baseline pipeline
+├── RetinAI_Resnet_50.ipynb              # ResNet-50 baseline pipeline
 ├── RetinAI_Densenet_121.ipynb        # DenseNet-121 ordinal regression pipeline
 ```
 
